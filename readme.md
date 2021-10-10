@@ -8,7 +8,7 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/rodrigorvsn/conceitos-react-ignite?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/rodrigorvsn/conceitos-react-ignite?style=for-the-badge)
 
-<img src="exemplo-image.png" alt="exemplo imagem">
+![image](https://user-images.githubusercontent.com/75763403/136711209-4372cee1-13d0-4916-8323-4e72a7314158.png)
 
 > App to manage your tasks to do.
 
